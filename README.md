@@ -1,1 +1,1 @@
-# Exploratory Data Analysis - Retail - Made with Clipchamp
+# Exploratory Data Analysis - Retail
